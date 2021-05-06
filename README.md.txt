@@ -1,1 +1,0 @@
-#Sitema de Gerenciamento de Vendas
